@@ -1,2 +1,3 @@
-# default-contact-form
-Simple feedback form for a WordPress theme
+# Простая форма обратной связи для WordPress-темы
+
+https://chomovva.ru/ru/blog/prostaya-forma-obratnoj-svyazi-dlya-wordpress-temy/
